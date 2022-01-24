@@ -1,2 +1,2 @@
-# Online Shoppers Purchasing Intention 
+# Model Selection and Performance Evaluation
 (Pattern Recognition Project)
